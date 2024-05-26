@@ -12,9 +12,8 @@ if perintah.lower() == "terjemahkan":
 else:
     print("Perintah tidak dikenali.")
     
-    
-    
-    
+
+
 import turtle
 
 turtle.penup ()
